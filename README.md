@@ -4,8 +4,8 @@
 A lightweight, text-based Python application that simulates an F1 team strategy desk to determine optimal pit stop windows based on tire compounds.
 
 ## Features
-- Dynamic Input Parsing:** Accepts compound choices directly from the race engineer.
-- Tire Degradation Logic:** Maps specific stint lengths to Soft, Medium, and Hard compounds.
+- Dynamic Input Parsing: Accepts compound choices directly from the race engineer.
+- Tire Degradation Logic: Maps specific stint lengths to Soft, Medium, and Hard compounds.
 - Error Handling:** Built-in boundary checks to handle invalid or unsupported tire configurations gracefully.
 
 ## Architecture & Logic
